@@ -37,12 +37,6 @@ Me chamo Raysa Moura, tenho 22 anos e sou de São Paulo Capital. Concluí o Ensi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </div>
 
-###
-
-
-<img src="https://raw.githubusercontent.com/RaysaSantos/RaysaSantos/output/snake.svg" alt="Snake animation" />
-
-###
 
 ### 🎲Estatísticas
 
